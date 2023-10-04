@@ -20,7 +20,7 @@ Olá! Somos a KMEE, uma empresa especializada em soluções Open Source de ERP, 
 
 ## :surfing_man: Cultura KMEE
 
-Nós acreditamos no equilíbrio entre trabalho e vida pessoal. A equipe KMEE também curte surfar e se divertir!
+Nós acreditamos no equilíbrio entre trabalho e vida pessoal.
 
 ## :bookmark_tabs: Licença
 
