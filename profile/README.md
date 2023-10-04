@@ -2,15 +2,15 @@
 
 ## Sobre Nós
 
-Olá! Somos a KMEE, uma empresa especializada em soluções de ERP, CRM e E-commerce. Nosso objetivo é impulsionar negócios, otimizando processos e contribuindo para o crescimento das empresas.
+Olá! Somos a KMEE, uma empresa especializada em soluções Open Source de ERP, CRM e E-commerce. Nosso objetivo é impulsionar negócios, otimizando processos e contribuindo para o crescimento das empresas.
 
 ## :computer: Tecnologias
 
+- Odoo
 - ERP
 - CRM
 - E-commerce
-- Odoo
-- Open Source
+- Documentos Fiscais / SPED
 
 ## :wave: Entre em Contato
 
