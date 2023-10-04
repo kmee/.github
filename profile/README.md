@@ -9,6 +9,7 @@ Olá! Somos a KMEE, uma empresa especializada em soluções Open Source de ERP, 
 - Odoo
 - ERP
 - CRM
+- PDV
 - E-commerce
 - Documentos Fiscais / SPED
 
