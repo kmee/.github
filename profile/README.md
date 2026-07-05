@@ -23,6 +23,8 @@ Nossos módulos Odoo abertos ficam em [`kmee-odoo-addons`](https://github.com/km
 
 ## :wave: Fale com a gente
 
+[![Falar no WhatsApp](https://img.shields.io/badge/WhatsApp-Fale%20com%20a%20gente-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511933106736)
+
 - :email: contato@kmee.com.br
 - :telephone_receiver: (11) 3090 9303
 - :office: Itajubá - MG, Brasil
