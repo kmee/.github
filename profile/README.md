@@ -1,8 +1,8 @@
 # KMEE
 
-**Odoo open source no Brasil e no Mercosul.** Somos uma consultoria de tecnologia e gestão que implanta, migra e estende o Odoo, e ajuda a manter a infraestrutura fiscal open source do ecossistema há mais de uma década.
+**Odoo open source, do Brasil para o mundo.** Somos uma consultoria de tecnologia e gestão que implanta, migra e estende o Odoo, e ajuda a manter a infraestrutura fiscal open source do ecossistema há mais de uma década. Já entregamos projetos no Brasil, Estados Unidos, Canadá, México, Espanha, Bélgica, Emirados Árabes e além.
 
-> _Open source Odoo consultancy from Brazil. Maintainers of the OCA Brazilian localization (l10n-brazil) and, now, the Paraguayan one (l10n-paraguay / SIFEN)._
+> _Open source Odoo consultancy from Brazil, delivering worldwide (US, Canada, Europe, LATAM, Middle East). Maintainers of the OCA Brazilian localization (l10n-brazil) and the Paraguayan one (l10n-paraguay / SIFEN)._
 
 Autoridade em Odoo no Brasil não se compra com um selo de parceria. Se constrói, commit por commit, na comunidade. É isso que a gente faz desde os tempos do OpenERP.
 
