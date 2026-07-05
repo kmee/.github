@@ -1,48 +1,34 @@
 # KMEE
 
-**Odoo open source no Brasil e no Mercosul.** Somos uma consultoria de tecnologia e gestão que implanta, migra e estende o Odoo, e ajuda a manter a infraestrutura fiscal open source do ecossistema há mais de uma década.
+Consultoria de tecnologia e gestão especializada em **Odoo** e soluções open source. Implantação, migração, customização e suporte, com contribuição ativa para a comunidade.
 
-> _Open source Odoo consultancy from Brazil. Maintainers of the OCA Brazilian localization (l10n-brazil) and, now, the Paraguayan one (l10n-paraguay / SIFEN)._
+## :computer: Áreas
 
-Autoridade em Odoo no Brasil não se compra com um selo de parceria. Se constrói, commit por commit, na comunidade. É isso que a gente faz desde os tempos do OpenERP.
+- Odoo (ERP, CRM, PDV, e-commerce)
+- Localização fiscal e documentos fiscais / SPED
+- Manufatura e operações
+- Integrações e inteligência de dados
 
-## :hammer_and_wrench: O que fazemos
+## :handshake: Open source e comunidade
 
-- **Implantação e migração de Odoo** - da saída de um ERP legado (TOTVS, Protheus, SAP, Omie) até a operação rodando, por etapas.
-- **Localização fiscal brasileira** - NF-e, NFC-e, NFS-e, CT-e, MDF-e, SPED, eSocial, e a Reforma Tributária (IBS/CBS/IS), tudo nativo e auditável.
-- **Manufatura e operações** - do MRP ao DDMRP (somos certificados DDMRP/DDP) e Teoria das Restrições na prática.
-- **E-commerce, CRM e IA sobre o Odoo** - a loja, o funil e a inteligência rodando sobre um dado único.
+Acreditamos que a melhor tecnologia se constrói no aberto. Somos membros ativos da **OCA (Odoo Community Association)**, ajudando a manter a localização fiscal brasileira do Odoo (`l10n-brazil`) e contribuindo em diversos outros projetos da comunidade, no Brasil e no mundo.
 
-## :globe_with_meridians: Comunidade OCA (o nosso moat)
+Nossos módulos Odoo abertos ficam em [`kmee-odoo-addons`](https://github.com/kmee/kmee-odoo-addons). Encontrou um problema ou tem uma ideia? Issues e pull requests são bem-vindos.
 
-A KMEE ajuda a manter, no aberto, a base fiscal que centenas de empresas usam:
+## :books: Recursos
 
-- **[l10n-brazil](https://github.com/OCA/l10n-brazil)** - localização fiscal brasileira do Odoo (OCA).
-- **l10n-paraguay / [sifen](https://github.com/kmee) / pykude** - localização do Paraguai (SIFEN, KuDE): a mesma filosofia, reaplicada no Mercosul.
-- **erpbrasil** (nfelib, erpbrasil.edoc) - a stack Python que gera, assina e transmite os documentos fiscais a partir dos XSD oficiais.
-- Contribuições em **ddmrp**, CRM, estoque e muito mais.
-
-Quando a lei muda, a correção não depende da agenda de um fornecedor. E quando você sai de um legado, entra num ecossistema aberto, não na dependência de uma única empresa.
-
-## :package: Nossos produtos
-
-| Produto | O que é |
-|---|---|
-| **K-Shop** | E-commerce headless sobre Odoo (Next.js), fiscal BR nativo, sem comissão por venda e sem lock-in. Já em produção no Brasil, Canadá e EUA. |
-| **KMEE AI** | Conecta o ChatGPT e o Claude a qualquer versão do seu Odoo, com segurança e auditoria, sem instalar nada. [lp.kmee.ai](https://lp.kmee.ai) |
-| **KDS / Order Display** | Telas de cozinha e de pedidos para food service, offline-first, sobre o PDV do Odoo. |
+- :globe_with_meridians: Nosso site: [kmee.com.br](https://kmee.com.br)
+- :package: Nossos módulos: [kmee-odoo-addons](https://github.com/kmee/kmee-odoo-addons) · todos os repositórios: [github.com/kmee](https://github.com/kmee)
+- :link: Odoo: [odoo.com](https://odoo.com) · OCA: [odoo-community.org](https://odoo-community.org)
 
 ## :wave: Fale com a gente
 
-- :globe_with_meridians: Site: [kmee.com.br](https://kmee.com.br)
+[![Falar no WhatsApp](https://img.shields.io/badge/WhatsApp-Fale%20com%20a%20gente-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511933106736)
+
 - :email: contato@kmee.com.br
 - :telephone_receiver: (11) 3090 9303
 - :office: Itajubá - MG, Brasil
 
-## :seedling: Como trabalhamos
-
-Código aberto, dado do cliente na mão do cliente, e a convicção de que a gente não recomenda o que não roda primeiro. Equilíbrio entre trabalho e vida pessoal faz parte da conta.
-
 ---
 
-Feito com :heart: e muitos commits pela equipe KMEE.
+Feito com :heart: pela equipe KMEE.
