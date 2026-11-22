@@ -1,34 +1,51 @@
 # KMEE
 
-Consultoria de tecnologia e gestão especializada em **Odoo** e soluções open source. Implantação, migração, customização e suporte, com contribuição ativa para a comunidade.
+Implantamos e damos suporte ao **Odoo** desde 2012, a partir de Itajubá (MG). Fazemos implantação, migração de versão, desenvolvimento e suporte, e publicamos em código aberto o que construímos para as localizações fiscais.
 
-## :computer: Áreas
+*English version [below](#english).*
 
-- Odoo (ERP, CRM, PDV, e-commerce)
-- Localização fiscal e documentos fiscais / SPED
-- Manufatura e operações
-- Integrações e inteligência de dados
+## O que mantemos em aberto
 
-## :handshake: Open source e comunidade
+| Projeto | O que é |
+|---|---|
+| [kmee-odoo-addons](https://github.com/kmee/kmee-odoo-addons) | Módulos Odoo da KMEE, incubados antes de irem para a OCA |
+| [l10n-brazil-fiscal-contrib](https://github.com/kmee/l10n-brazil-fiscal-contrib) | Documentos fiscais e leiautes de nicho sobre a localização brasileira da OCA |
+| [l10n-brazil-hr](https://github.com/kmee/l10n-brazil-hr) | Folha, eSocial, SST, ponto e recrutamento sobre a localização brasileira da OCA |
+| [brbank](https://github.com/kmee/brbank) | Cobrança bancária unificada (boleto e Pix) para bancos brasileiros, em Python assíncrono |
+| [sifen](https://github.com/kmee/sifen) | Biblioteca Python para a fatura eletrônica do Paraguai (SIFEN) |
+| [pykude](https://github.com/kmee/pykude) | Geração do KuDE em PDF a partir do XML do SIFEN |
+| [arcalib](https://github.com/kmee/arcalib) | Biblioteca Python para os webservices da ARCA (ex AFIP), da Argentina |
+| [l10n-united-arab-emirates](https://github.com/kmee/l10n-united-arab-emirates) | Fatura eletrônica dos Emirados (PINT-AE) no Odoo |
 
-Acreditamos que a melhor tecnologia se constrói no aberto. Somos membros ativos da **OCA (Odoo Community Association)**, ajudando a manter a localização fiscal brasileira do Odoo (`l10n-brazil`) e contribuindo em diversos outros projetos da comunidade, no Brasil e no mundo.
+Participamos da **OCA (Odoo Community Association)** e da manutenção da localização brasileira do Odoo, a [`l10n-brazil`](https://github.com/OCA/l10n-brazil), ao lado de outras empresas. A maior parte dos repositórios desta organização são forks da OCA, de onde saem os nossos pull requests.
 
-Nossos módulos Odoo abertos ficam em [`kmee-odoo-addons`](https://github.com/kmee/kmee-odoo-addons). Encontrou um problema ou tem uma ideia? Issues e pull requests são bem-vindos.
+Achou um problema ou tem uma ideia? Issues e pull requests são bem-vindos.
 
-## :books: Recursos
+## Documentação e contato
 
-- :globe_with_meridians: Nosso site: [kmee.com.br](https://kmee.com.br)
-- :package: Nossos módulos: [kmee-odoo-addons](https://github.com/kmee/kmee-odoo-addons) · todos os repositórios: [github.com/kmee](https://github.com/kmee)
-- :link: Odoo: [odoo.com](https://odoo.com) · OCA: [odoo-community.org](https://odoo-community.org)
-
-## :wave: Fale com a gente
-
-[![Falar no WhatsApp](https://img.shields.io/badge/WhatsApp-Fale%20com%20a%20gente-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511933106736)
-
-- :email: contato@kmee.com.br
-- :telephone_receiver: (11) 3090 9303
-- :office: Itajubá - MG, Brasil
+- Documentação de uso do Odoo com a localização brasileira, com vídeos: [docs.kmee.com.br](https://docs.kmee.com.br/?utm_source=github&utm_medium=referral&utm_campaign=perfil-org)
+- Site: [kmee.com.br](https://kmee.com.br/?utm_source=github&utm_medium=referral&utm_campaign=perfil-org)
+- Quer implantar ou migrar o Odoo? [Fale com a gente](https://kmee.com.br/contato/?utm_source=github&utm_medium=referral&utm_campaign=perfil-org) ou chame no [WhatsApp](https://wa.me/5511933106736)
 
 ---
 
-Feito com :heart: pela equipe KMEE.
+<a name="english"></a>
+
+## English
+
+KMEE has implemented and supported **Odoo** since 2012, from Itajubá, Brazil. We do implementation, version migration, development and support, and we publish as open source what we build for fiscal localizations.
+
+| Project | What it is |
+|---|---|
+| [kmee-odoo-addons](https://github.com/kmee/kmee-odoo-addons) | KMEE's Odoo modules, incubated before moving to the OCA |
+| [l10n-brazil-fiscal-contrib](https://github.com/kmee/l10n-brazil-fiscal-contrib) | Fiscal documents and niche layouts on top of the OCA Brazilian localization |
+| [l10n-brazil-hr](https://github.com/kmee/l10n-brazil-hr) | Payroll, eSocial, occupational safety, time clock and recruitment for Brazil |
+| [brbank](https://github.com/kmee/brbank) | Unified bank collection (boleto and Pix) for Brazilian banks, in async Python |
+| [sifen](https://github.com/kmee/sifen) | Python library for Paraguay's electronic invoicing (SIFEN) |
+| [pykude](https://github.com/kmee/pykude) | KuDE PDF generation from SIFEN XML |
+| [arcalib](https://github.com/kmee/arcalib) | Python library for Argentina's ARCA (formerly AFIP) web services |
+| [l10n-united-arab-emirates](https://github.com/kmee/l10n-united-arab-emirates) | UAE electronic invoicing (PINT-AE) for Odoo |
+
+We take part in the **OCA (Odoo Community Association)** and in the maintenance of the Brazilian localization of Odoo, [`l10n-brazil`](https://github.com/OCA/l10n-brazil), alongside other companies. Most repositories in this organization are OCA forks, where our pull requests come from.
+
+Want to implement or migrate Odoo? [Get in touch](https://kmee.com.br/en/contact/?utm_source=github&utm_medium=referral&utm_campaign=perfil-org).
